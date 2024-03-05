@@ -1,0 +1,5 @@
+.env
+.editorconfig
+db_data
+src
+*.DS_Store
